@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+  
+  <head>
+    <title>C.V Axel Polin</title>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/w3.css" />
+    <link rel="stylesheet" href="css/Roboto.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
+     <link rel="stylesheet" type="text/css" href="css/style_cv.css" />
+  </head>
+
+  <body class="w3-light-grey">
+
+  <!-- Page Container -->
+  <div class="w3-content w3-margin-top" style="max-width:1400px;">
+  
+    <!-- The Grid -->
+    <div class="w3-row-padding">
+    
+      <!-- Left Column -->
+      <div class="w3-third">
+      
+        <div class="w3-white w3-text-grey w3-card-4">
+          
+          <div class="w3-display-container">
+            <h2>Axel Polin</h2>
+            <a href="CV_Axel_Polin_dwn.pdf" download="cv_Axel_Polin.pdf"><button class="w3-btn"><i class="fa fa-download"></i>Download my C.V</button></a>
+            <a href="mailto:univ_apolin@protonmail.com" target="_blank"><button class="w3-btn"><i class="fa fa-download"></i>Demander mon C.V complet (avec image, et mail pro)</button></a>
+          </div>
+          
+          <div class="w3-container">
+            <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Biologiste (BioInformatique)</p>
+            <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Bordeaux, France</p>
+            <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>univ_apolin@protonmail.com</p>
+            <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+33 668 073 429</p>
+            <p><i class="fas fa-car fa-fw w3-margin-right w3-large w3-text-teal"></i>Permis B</p>
+            <p><i class="fas fa-user fa-fw w3-margin-right w3-large w3-text-teal"></i>Celibataire</p>
+            <hr />
+  
+            <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+            <p>Génome</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:85%">
+                <div class="w3-center w3-text-white">85%</div>
+              </div>
+            </div>
+            <p>Organisme</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+            </div>
+            <p>Écosystème</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            </div>
+            
+            <hr />
+            
+            <p>Blender (2.7 &amp; 2.80 beta)</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:85%">85%</div>
+            </div>
+            <p>Cinelerra Unify GG</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            </div>
+            <p>Natron 2.3</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            </div>
+            <p>Gimp (Krita)</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+            </div>
+            <p>MakeHuman &amp; MeshLab</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+            </div>
+            
+            <hr />
+            
+            <p>Prise de son &amp; Captation</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:85%">85%</div>
+            </div>
+            <p>Composition &amp; Arrangement (MuseScore 2 &amp; LMMS)</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+            </div>
+            <p>Enregistrement</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+            </div>
+            <p>Égalisation &amp; Acoustique</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:65%">65%</div>
+            </div>
+            
+            <hr />
+            
+            <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+            <p>English</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-teal" style="height:24px;width:60%"></div>
+            </div>
+            <p>Spanish</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-teal" style="height:24px;width:45%"></div>
+            </div>
+            <br />
+          </div>
+        </div><br />
+  
+      <!-- End Left Column -->
+      </div>
+  
+      <!-- Right Column -->
+      <div class="w3-twothird">
+      
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Travail/Stage</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Stage Station Marine d'Arcachon Laboratoire EPOCH</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Durée : <span class="w3-tag w3-teal w3-round">1 mois</span></h6>
+            <p>Analyses Parasitologiques sur le bassin d'Arcachon. Analyses statistiques.</p>
+          </div>
+        </div>
+  
+        <div class="w3-container w3-card w3-white w3-margin-bottom">
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Université de Bordeaux</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2015 - Mai 2018</h6>
+            <h6>Licence du Génome aux Écosystèmes</h6>
+            <p>L'objectif de la licence mention Sciences de la Vie est de faire acquérir aux étudiants des compétences scientifiques, 
+            techniques et pratiques dans le champ des Sciences de la Vie (compréhension du Vivant et de son fonctionnement) 
+            grâce à une formation générale pluridisciplinaire de haut niveau de connaissances générales dans tous les secteurs de la biologie.</p>
+            <hr />
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Université de bordeaux</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2018 - <span class="w3-tag w3-teal w3-round">En cours</span></h6>
+            <h6>Master BioInformatique : Du génomes aux Écosystèmes</h6>
+            <p>La mention bioinformatique forme des ingénieurs en bioinformatique dans les secteurs académiques et industriels .
+              Les compétences acquises au cours de cette formation permettront de faire face aux défis de la biologie 2.0 
+              avec les nouvelles technologies de production de données du vivant à haut débit. 
+              Il s'agit donc d'acquérir une double compétence en informatique (algorithmique et programmation) 
+              et biologie de manière à faire des étudiants de biologie des utilisateurs avancés 
+              (développement logiciel et analyse experte de données) du génome aux écosystèmes.</p>
+            <hr />
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Lycée St Elme</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sept 2012 - Mai 2015</h6>
+            <h6>Baccalauréat Scientifique <span class="w3-tag w3-teal w3-round">Mention Assez Bien</span></h6>
+            <hr />
+          </div>
+        </div>
+  
+        <div class="w3-container w3-card w3-white">
+          <h2 class="w3-text-grey w3-padding-16"><i class="far fa-user fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Loisirs</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Multimédia</b></h5>
+            <p>Parce que du bon travail passe par de bons outils j'ai choisi d'utiliser ce que l'open source offre de meilleur.</p>
+            <p>Des outils robustes, légers et sécurisants qui me permettent de créer à l'infini.</p>
+            <ul style="list-style-type:none">
+              <li class="w3-bar">
+                <img src="img/blenderlogocolor.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">Blender</span>
+                  <br />
+                  <span>pour l'animation 2D/3D, le compositing, les rendus, les simulations</span>
+                  <br />
+                  <a href="https://www.blender.org/" target="_blank">Blender Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/cin-logo-long.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">Cinelerra</span>
+                  <br />
+                  <span>pour la post-production dont l'étalonnage et le montage</span>
+                  <br />
+                  <a href="https://www.cinelerra-gg.org" target="_blank">Cinelerra Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/wilber-big.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">The GIMP</span>
+                  <br />
+                  <span>l'indispensable pour manipuler des images</span>
+                  <br />
+                  <a href="https://www.gimp.org/" target="_blank">GIMP Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/makehuman-logo.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">Makehuman</span>
+                  <br />
+                  <span>pour la modélisation et le rigging de personnage humain</span>
+                  <br />
+                  <a href="http://www.makehumancommunity.org/" target="_blank">Makehuman Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/Natron_icon.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">Natron</span>
+                  <br />
+                  <span>pour le compositing digital en 2D et 2.5D</span>
+                  <br />
+                  <a href="https://natrongithub.github.io" target="_blank">Natron Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/musescore-logo.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">MuseScore</span>
+                  <br />
+                  <span>pour la composition et l'arrangement musicaux</span>
+                  <br />
+                  <a href="https://musescore.org/fr" target="_blank">Musescore Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/lmms-logo.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">LMMS</span>
+                  <br />
+                  <span>pour la composition musicale</span>
+                  <br />
+                  <a href="https://lmms.io" target="_blank">LMMS Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/ardour_logo.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">Ardour</span>
+                  <br />
+                  <span>Station de travail audio digitale</span>
+                  <br />
+                  <a href="https://ardour.org/" target="_blank">Ardour Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+              <li class="w3-bar">
+                <img src="img/meshlab-logo.png" alt="Error" class="w3-bar-item" style="width:200px" />
+                <div class="w3-bar-item">
+                  <span class="w3-large">Meshlab</span>
+                  <br />
+                  <span>pour faire des opérations sur les meshes et éditer les meshes triangulaires</span>
+                  <br />
+                  <a href="http://www.meshlab.net" target="_blank">Meshlab Website</a>
+                </div>
+              </li>
+              <li><hr /></li>
+            </ul>
+          </div>
+          
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Dessin</b></h5>
+            <p>Le dessin fait partie intégrante de la Biologie mais je le place tout de même ici. Je dessine surtout de la B.D
+            et du Manga (Seinen plutôt réaliste). Mes compétences vont du croquis préparatoire à l'encrage traditionnel à la plume.</p>
+            <hr />
+          </div>
+            
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Sports</b></h5>
+            <p>Je pratique de nombreux sports : Randonnées, Boxe anglaise, Kick-boxing, Kobudo (bo,jo), Parkour, Escalade, VTT (Freeride et X-country).</p>
+            <hr />
+          </div>
+          
+        </div>
+        
+      <!-- End Right Column -->
+      </div>
+      
+    <!-- End Grid -->
+    </div>
+    
+    <!-- End Page Container -->
+  </div>
+  
+    <footer class="w3-container w3-teal w3-center w3-margin-top">
+    <p>Created by Axel Polin</p>
+    <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  </footer>
+  
+</body>
+
+</html>

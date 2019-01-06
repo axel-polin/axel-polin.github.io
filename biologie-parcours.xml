@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+  
+ <head>
+   <title>Axel Polin #Biologie</title>
+   <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+   <meta http-equiv="Content-Style-Type" content="text/css" />
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link rel="stylesheet" href="css/w3.css" />
+ </head>
+
+<body class="w3-content w3-black" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-xlarge w3-black w3-container w3-center" style="height:700px">
+  <div class="w3-padding-64">
+    <h1>Mon parcours</h1>
+    <p class="w3-center"><small>J'ai effectué toute ma scolarité universitaire à l'<a href="https://www.u-bordeaux.fr" target="_blank">Université de Bordeaux</a></small></p>
+  </div>
+  <div class="w3-padding-32">
+    <a href="#Licence" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Licence [Du génomes aux Écosystèmes]</a>
+    <a href="#Master" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16">Master [Du génomes aux Écosystèmes]</a>
+  </div>
+</div>
+
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div class="w3-xlarge w3-dark-grey w3-container" style="min-height:800px" id="Licence">
+    <div class="w3-padding-64 w3-center">
+      <h2>Licence du Génomes aux Écosystèmes</h2>
+      <p>Description</p>
+      <div class="w3-container w3-responsive">
+        <table class="w3-table">
+          <tr>
+            <th>Titre</th>
+          </tr>
+          <tr class="w3-white">
+            <td>Unité et Diversité du Vivant</td>
+          </tr>
+          <tr>
+            <td>Mathématiques, Physique, Biophysique, Chimie Organique</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Épistémologie et Histoire des Sciences</td>
+          </tr>
+          <tr>
+            <td>Biologie cellulaire</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Initiation Géologie</td>
+          </tr>
+          <tr>
+            <td>Microbiologie</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Physiologie Cellulaire</td>
+          </tr>
+          <tr>
+            <td>Biologie Moléculaire</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Thermodynamique et mécanique des fluides</td>
+          </tr>
+          <tr>
+            <td>Biologie cellulaire et biologie du développement</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Génétique</td>
+          </tr>
+          <tr>
+            <td>Écologie Générale</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Méthodologie expérimentale</td>
+          </tr>
+          <tr>
+            <td>Immunologie</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Analyse moléculaire des organismes</td>
+          </tr>
+          <tr>
+            <td>Statistiques pour la biologie et l'écologie</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Ecophysiologie animale I</td>
+          </tr>
+          <tr>
+            <td>Dynamique des Ecosystèmes et Biodiversité</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Génétique des populations</td>
+          </tr>
+          <tr>
+            <td>Relevés et inventaires des organismes</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Taxinomie des organismes</td>
+          </tr>
+          <tr>
+            <td>Microbiologie environnementale et interactions symbiotiques</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Ecophysiologie animale II</td>
+          </tr>
+          <tr class="w3-hide-medium">
+            <td>Informatique et Statistiques appliquées à la Biologie</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row">
+  <div class="w3-xlarge w3-blue-grey w3-container" style="min-height:800px" id="Master">
+    <div class="w3-padding-64 w3-center">
+      <h2>Master BioInformatique du Génomes aux Écosystèmes</h2>
+      <p>Description</p>
+      <div class="w3-container w3-responsive">
+        <table class="w3-table">
+          <tr>
+            <th>Titre</th>
+          </tr>
+          <tr class="w3-white">
+            <td>Omiques et BioInformatique</td>
+          </tr>
+          <tr>
+            <td>Algorithmique, Programmation et Utilisation des Systèmes Informatiques</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Initiation à l'exploration d'images numériques</td>
+          </tr>
+          <tr>
+            <td>Traitement des données environnementales</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Bases de Données : fondements et applications</td>
+          </tr>
+          <tr>
+            <td>Conception d'un Projet de Recherche et de Développement</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Nouvelles Générations de Sequençage</td>
+          </tr>
+          <tr>
+            <td>Gestion des milieux aquatiques continentaux</td>
+          </tr>
+          <tr class="w3-white">
+            <td>Gestion, conservation et restauration des écosystèmes terrestres</td>
+          </tr>
+          <tr class="w3-hide-medium">
+            <td>[Traitement de Vidéos et Modélisation des Processus Dynamiques]</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer class="w3-content w3-text-grey w3-xlarge w3-center">
+    <p class="w3-medium">Created by Axel Polin</p>
+    <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+</footer>
+  
+</body>
+</html>

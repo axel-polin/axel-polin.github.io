@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+  <title>Collaborer en Biologie</title>
+  <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="css/w3.css" />
+  <link rel="stylesheet" href="css/Montserrat.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
+  <link rel="stylesheet" href="css/style_bio.css" />
+</head>
+
+<body class="w3-black w3-content">
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:16px">
+
+  <!-- Header -->
+  <header>
+    <div class="w3-container">
+    <h1 class="w3-center"><b>Collaborer dans le domaine de la biologie</b></h1>
+    <p style="margin-left:20px">Voici une liste non exhaustive des travaux que je peux effectuer en Biologie. 
+    N'hésitez pas à me contacter pour obtenir plus d'informations.</p>
+    </div>
+  </header>
+  
+  <!-- First Photo Grid -->
+  <div class="w3-row-padding">
+    <h1 class="w3-opacity" style="margin-left:32px">Génomes :</h1>
+    <hr />
+    <div class="w3-half w3-container">
+      <h2 class="w3-opacity">Biologie</h2>
+      <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+        <p><b>Pour vos travaux de laboratoire je peux : </b></p>
+        <p>Préparer des PCRs, des Éléctrophorèses, des coupes microscopiques (pour microscopie photonique en fluorescence ou non uniquement)</p>
+        <p>Mettre en culture des microorganismes et effectuer des pipetages de précision.</p>
+      </div>
+    </div>
+    <div class="w3-half w3-container">
+      <h2 class="w3-opacity">BioInformatique</h2>
+      <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+        <p><b>Pour le traitement de vos données expérimentales je peux : </b></p>
+        <p>Analyser et traiter vos images numériques (issues de la microscopie par exemple comme la recherche de cellules, de groupes, ...)</p>
+        <p>Effectuer des analyses statistiques sur les bases de données.</p>
+        <p>Creer des solutions logicielles pour automatiser vos tâches (en Python, Bash, JavaScript ou C)</p>
+      </div>
+    </div>
+  </div>
+  <br />
+  <!-- Second Photo Grid -->
+  <div class="w3-row-padding">
+    <h1 class="w3-opacity" style="margin-left:32px">Organismes :</h1>
+    <hr />
+    <div class="w3-half w3-container">
+      <h2 class="w3-opacity">Biologie</h2>
+      <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+        <p><b>Pour votre travail de laboratoire je peux : </b></p>
+        <p>Effectuer toutes sortes de travaux en Écophysiologie, Immunologie, Biologie Cellulaire et Biologie du Développement.</p>
+      </div>
+    </div>
+    <div class="w3-half w3-container">
+      <h2 class="w3-opacity">BioInformatique</h2>
+      <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+        <p><b>Pour le traitement de vos données expérimentales je peux : </b></p>
+        <p>Traiter et mettre en place des arbres phylogénétiques.</p>
+        <p>Effectuer des statistiques sur vos données en R et exploiter les résultats.</p>
+      </div>
+    </div>
+  </div>
+  <br />
+  <!-- Third Photo Grid -->
+  <div class="w3-row-padding">
+    <h1 class="w3-opacity" style="margin-left:32px">Écosystèmes :</h1>
+    <hr />
+    <div class="w3-half w3-container">
+      <h2 class="w3-opacity">Biologie</h2>
+      <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+        <p><b>Pour votre travail de terrain je peux :</b></p>
+        <p>Gérer vos plans d'échantillonnages pour obtenir le meilleur effort d'échantillonnage possible par example</p>
+        <p>Faire des analyses microbiologiques (Microbiologie environnementale)</p>
+        <p>Analyser les interactions symbiotiques</p> 
+        <p>Faire du Relevé et Inventaires des organismes et de la Taxinomie.</p>
+      </div>
+    </div>
+    <div class="w3-half w3-container">
+      <h2 class="w3-opacity">BioInformatique</h2>
+      <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+        <p><b>Pour le retour au laboratoire je peux :</b></p>
+        <p>Traiter les données environnementales de toute sortes (statistiques)</p>
+      </div>
+    </div>
+  </div>
+  
+  <footer class="w3-padding-24 w3-center">
+    <p class="w3-medium">Created by Axel Polin</p>
+    <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <!-- End footer -->
+  </footer>
+
+<!-- End page content -->
+</div>
+</body>
+
+</html>

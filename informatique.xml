@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+ <head>
+   <title>Collaborer en Info, Audiovisuel et Multimédia</title>
+   <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+   <meta http-equiv="Content-Style-Type" content="text/css" />
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link rel="stylesheet" href="css/w3.css" />
+   <link rel="stylesheet" href="css/Montserrat.css" />
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
+   <link rel="stylesheet" href="css/style_info.css" />
+  </head>
+  
+  <body class="w3-black w3-content">
+  
+  <!-- !PAGE CONTENT! -->
+  <div class="w3-main" style="margin-left:16px">
+  
+    <!-- Header -->
+    <header>
+      <div class="w3-container">
+      <h1 class="w3-center"><b>Collaborer dans le domaine de l'informatique, de l'audiovisuel et du multimédia</b></h1>
+      <p style="margin-left:20px">Voici une liste non exhaustive des travaux que je peux effectuer. 
+      N'hésitez pas à me contacter pour obtenir plus d'informations.</p>
+      </div>
+    </header>
+    
+    <!-- First Photo Grid -->
+    <div class="w3-row-padding">
+      <hr />
+      <div class="w3-half w3-container">
+        <h2 class="w3-opacity">Programmation</h2>
+        <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+          <p><b>Pour vos travaux de programmation je peux : </b></p>
+          <p>Creer et manager vos sites webs.</p>
+          <p>Automatiser vos tâches en Python, Bash, Javascript, C, HTML et CSS.</p>
+          <p>Participer à la conception de Média vidéoludique.</p>
+        </div>
+      </div>
+      <div class="w3-half w3-container">
+        <h2 class="w3-opacity">Chaîne de production audiovisuelle</h2>
+        <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+          <p><b>Je peux aider et intervenir sur tout les niveaux d'une chaîne de production audiovisuelle</b></p>
+          <p>Au départ en pré-production : story-boarding, croquis, artworks,...</p>
+          <p>En production : prise de son, captation, animation 2D/3D, rigging, motion tracking,...</p>
+          <p>En post-production : étallonnage, modélisation 3D, texturing, compositing, montage non linéaire...</p>
+          <p><b>Je peux vous conseiller au sujet de la véracité de vos écosystèmes dans vos jeux, films, documentaires, et sur n'importe quel sujet où la biologie intervient.</b></p>
+          <p><b>Je peux vous aider à concevoir et à modéliser avec précision et réalisme vos personnages humains et non humains, ainsi que les végétaux.</b></p>
+        </div>
+      </div>
+    </div>
+    <br />
+    </div>
+    <hr />
+    <div class="w3-container">
+      <h2 class="w3-opacity">Photographie, Musique</h2>
+      <div class="w3-container w3-border w3-round-large w3-hover-border-blue">
+        <p><b>Pour vos travaux de photographies et musicaux je peux : </b></p>
+        <p>Retoucher vos photos et les améliorer (en RAW ou n'importe quels autres formats).</p>
+        <p>Capturer des sons, mixer, arranger ou composer des morceaux simples.</p>
+        <p>Égaliser, installer votre studio et corriger simplement son acoustique.</p>
+      </div>
+    </div>
+    
+  <footer class="w3-padding-24 w3-center">
+    <p class="w3-medium">Created by Axel Polin</p>
+    <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  </footer>
+  <!-- End page content -->
+  
+  </body>
+</html>

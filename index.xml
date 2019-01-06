@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+ <head>
+   <title>Axel Polin</title>
+   <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+   <meta http-equiv="Content-Style-Type" content="text/css" />
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <link rel="stylesheet" href="css/w3.css" />
+   <link rel="stylesheet" href="css/Montserrat.css" />
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" href="css/style_index.css" />
+ </head>
+
+<body class="w3-black">
+
+<!-- Icon Bar (Sidebar - hidden on small screens) -->
+<nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
+  <!-- Avatar image in top left corner -->
+  <p style="padding-top: 30px;"></p>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-home w3-xxlarge"></i>
+    <br />
+    <span class="w3-center">ACCUEIL</span>
+  </a>
+  <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-user w3-xxlarge"></i>
+    <br />
+    <span class="w3-center">À PROPOS</span>
+  </a>
+  <a href="#colab" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fas fa-handshake w3-xxlarge"></i>
+    <br />
+    <span class="w3-center">COLLABORER</span>
+  </a>
+  <a href="#works" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-eye w3-xxlarge"></i>
+    <br />
+    <span class="w3-center">TRAVAUX</span>
+  </a>
+  <a href="CV.xml" class="w3-bar-item w3-button w3-padding-large w3-hover-black" target="_blank">
+    <i class="fas fa-user-secret w3-xxlarge"></i>
+    <br />
+    <span class="w3-center">C.V</span>
+  </a>
+  <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+    <i class="fa fa-envelope w3-xxlarge"></i>
+    <br />
+    <span class="w3-center">CONTACT</span>
+  </a>
+</nav>
+
+<!-- Navbar on small screens (Hidden on medium and large screens) -->
+<div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
+  <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
+    <a href="#" class="w3-bar-item w3-button" style="width:25% !important">ACCUEIL</a>
+    <a href="#about" class="w3-bar-item w3-button" style="width:25% !important">À PROPOS</a>
+    <a href="#colab" class="w3-bar-item w3-button" style="width:25% !important">COLLABORER ?</a>
+    <a href="#works" class="w3-bar-item w3-button" style="width:25% !important">TRAVAUX</a>
+    <a href="CV.xml" class="w3-bar-item w3-button" style="width:25% !important">C.V</a>
+    <a href="#contact" class="w3-bar-item w3-button" style="width:25% !important">CONTACT</a>
+  </div>
+</div>
+  
+<!-- Page Content -->
+<div class="w3-padding-large" id="main">
+  <!-- Header/Home -->
+  <header class="w3-container w3-padding-64 w3-center parallax" id="home">
+	<p style="padding-top: 300px;"></p>
+    <h1 class="w3-jumbo w3-text-black w3-center w3-white">Partons à la découverte du monde</h1>
+  </header>
+  
+  <!-- About Section -->
+  <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
+    <h2 class="w3-text-light-grey">À propos</h2>
+    <hr style="width:200px" class="w3-opacity" />
+    <p>Je suis étudiant en BioInformatique à <span class="w3-large">l'Université de Bordeaux</span> et un passioné du <span class="w3-large">monde</span>. 
+    Mon cursus m'a permis de découvrir la Biologie à toutes ses échelles : <span class="w3-large">génomes, organismes et écosystèmes</span>.
+    L'Informatique m'a fait atteindre ce qui avant était impossible : <span class="w3-large">simuler le vivant</span> et <span class="w3-large">donner matière à ce qui n'existe pas</span>. 
+    Bien-sùr il y a aussi <span class="w3-large">les statistiques, l'analyse de génomes, l'écologie évolutive</span> ; bref toute <span class="w3-large">la base de la Biologie</span> 
+    (voir pourquoi travailler ensemble en Biologie). 
+    Ce double cursus est ce qu'il me fallait pour aller à la <span class="w3-large">rencontre du monde</span>, <span class="w3-large">créer tout ce qui peut l'être</span>
+    et partir à la découverte <span class="w3-large">de ce qui est à découvrir</span>. 
+    Ajoutez à cela une dose de vie, de rencontres et d'histoire personelle et 
+    voila que débarque le <span class="w3-large">dessin</span>, la <span class="w3-large">vidéo</span>, la <span class="w3-large">photographie</span>, l'<span class="w3-large">animation</span>, 
+    la <span class="w3-large">musique</span> et son <span class="w3-large">enregistrement</span>.
+    </p>
+    <p>
+    Maintenant que vous en savez un peu plus ; <span class="w3-large">peut-être pourrions-nous ensemble, partir à la découverte du monde</span>.
+    </p>
+    <h3 class="w3-padding-16 w3-text-light-grey">Mes compétences résumées</h3>
+    <p class="w3-wide">Biologie : Du génome aux Écosystèmes</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:95%"></div>
+    </div>
+    <p class="w3-wide">Informatique : Programmation Python,Java,(X)HTML,CSS,C,BASH,R</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:90%"></div>
+    </div>
+    <p class="w3-wide">Multimédia, Audiovisuel</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:85%"></div>
+    </div>
+    <p class="w3-wide">Passe-temps, Loisirs</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:90%"></div>
+    </div><br />
+    
+    <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">Passion</span>
+      </div>
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">Dynamisme</span>
+      </div>
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">Autonomie</span>
+      </div>
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">Originalité</span>
+      </div>
+      <div class="w3-quarter w3-section">
+        <span class="w3-xlarge">600+</span><br />
+        Points sur <a href="https://www.root-me.org/?lang=fr" target="_blank" class="w3-hover-text-green" style="text-decoration: none;">root-me.org</a>
+      </div>
+    </div>
+    
+    <!-- Grid for pricing tables -->
+    <h3 class="w3-padding-16 w3-text-light-grey" id="colab">Sommes-nous fais pour nous entendre ?</h3>
+    <hr style="width:500px" class="w3-opacity" />
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-row-padding" style="margin:16px -16px">
+        <div class="w3-large">
+          <p class="w3-black w3-large w3-padding-16 w3-center">L'alliance de l'Informatique, de la Biologie et du Dessin pour repousser les limites de l'imagination ; pas celles de la réalité.</p>
+        </div>
+      </div>
+      <div class="w3-half w3-margin-bottom">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-dark-grey w3-xlarge w3-padding-32">En Biologie</li>
+          <li class="w3-padding-16">Écosystème</li>
+          <li class="w3-padding-16">Physiologie et anatomie animale</li>
+          <li class="w3-padding-16">Génomique</li>
+          <li class="w3-padding-16">Travail de Terrain (relevés, inventaires)</li>
+          <li class="w3-light-grey w3-padding-24">
+			<a href="biologie.xml" class="w3-button w3-white w3-padding-large w3-hover-black" target="_blank">Pourquoi travailler ensemble ?</a>
+      <a href="biologie-parcours.xml" class="w3-button w3-white w3-padding-large w3-hover-black" target="_blank">Mon parcours</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="w3-half w3-margin-bottom">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-dark-grey w3-xlarge w3-padding-32">En Informatique et Multimédia</li>
+          <li class="w3-padding-16">Python,Javascript,CSS,HTML,BASH,C,R</li>
+          <li class="w3-padding-16">Sécurité informatique, Pentesting</li>
+          <li class="w3-padding-16">Photographies, vidéos, captation, prise de son, compostition, arrangement</li>
+          <li class="w3-padding-16">Animation 2D/3D, Rigging, Modelisation</li>
+          <li class="w3-light-grey w3-padding-24">
+            <a href="informatique.xml" class="w3-button w3-white w3-padding-large w3-hover-black" target="_blank">Pourquoi travailler ensemble ?</a>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="w3-row-padding" style="margin:16px -16px">
+       <div class="w3-large">
+        <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+          <li class="w3-dark-grey w3-xlarge w3-padding-32">Passe-temps et loisirs</li>
+          <li class="w3-padding-16">Dessin (Manga : Du dessin à l'encrage)</li>
+          <li class="w3-padding-16">Escalade, Parkour, Kobudo (bo,jo), Kick-boxing, Boxe Anglaise, VTT (freeride, X-country)</li>
+          <li class="w3-padding-16">Survie et vie dans la Nature, Randonnées</li>
+          <li class="w3-padding-16">Casse-tête, Puzzle</li>
+        </ul>
+      </div>
+     </div>
+      
+    <!-- End Grid tables -->
+    </div>
+    
+  <!-- End About Section -->
+  </div>
+  
+  <!-- Portfolio Section -->
+  <div class="w3-padding-64 w3-content" id="works">
+    <h2 class="w3-text-light-grey">Mon travail</h2>
+    <hr style="width:200px" class="w3-opacity" />
+    <h3>Coming Soon ;)</h3>
+    <!-- Grid for photos -->
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-half">
+      </div>
+
+      <div class="w3-half">
+      </div>
+    <!-- End photo grid -->
+    </div>
+  <!-- End Portfolio Section -->
+  </div>
+
+  <!-- Contact Section -->
+  <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
+    <h2 class="w3-text-light-grey">Contactez-moi</h2>
+    <hr style="width:200px" class="w3-opacity" />
+
+    <div class="w3-section">
+      <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i>Bordeaux, France</p>
+      <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: +33 668 073 429</p>
+      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"></i>
+        Email (audiovisuel, création, avis sur mon travail...) : <a href="mailto:LeLibraireNaturaliste@protonmail.com" style="text-decoration: none;" class="w3-hover-text-green">LeLibraireNaturaliste@protonmail.com</a>
+      </p>
+      <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"></i>
+        Email (demande d'informations, stage, collaboration) : <a href="mailto:axel.polin@etu.u-bordeaux.fr" style="text-decoration: none;" class="w3-hover-text-green">univ_apolin@protonmail.com</a>
+      </p>
+    </div>
+    <h2 class="w3-text-light-grey">Social media</h2>
+    <hr style="width:200px" class="w3-opacity" />
+    <div class="w3-section">
+      <p>
+        <a href="https://github.com/axel-polin" target="_blank" class="fab fa-github w3-hover-text-green" style="text-decoration: none;font-size:100px;"></a>
+        <a href="https://www.youtube.com/channel/UCDwyNnWrw0bjP_jnFbS5dHQ" target="_blank" class="fab fa-youtube w3-hover-text-red" style="text-decoration: none;font-size:100px;"></a>
+      </p>
+    </div><br />
+  <!-- End Contact Section -->
+  </div>
+    <!-- Footer -->
+  <footer class="w3-content w3-text-grey w3-xlarge w3-center">
+    <p class="w3-medium">Created by Axel Polin</p>
+    <p class="w3-medium">Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <!-- End footer -->
+  </footer>
+
+<!-- END PAGE CONTENT -->
+</div>
+ </body>
+</html>
