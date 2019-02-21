@@ -181,7 +181,7 @@
     <h2 class="w3-text-light-grey">Mon travail</h2>
     <hr style="width:200px" class="w3-opacity" />
     <h3>Je réalise un court-métrage d'animation en ce moment, je posterai donc mon travail plus tard ;)</h3>
-    <a href="https://axel-polin.github.io/Arumoev.html" target="_blank" class="w3-hover-text-green" style="text-decoration: none;font-size:100px;">Lien vers le site web de production</a>
+    <a href="https://axel-polin.github.io/Arumoev.html" target="_blank" class="w3-hover-text-green" style="text-decoration: none;">Lien vers le site web de production</a>
     <!-- Grid for photos -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
